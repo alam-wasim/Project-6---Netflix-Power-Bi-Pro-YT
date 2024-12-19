@@ -1,0 +1,14 @@
+small small details like:
+
+clean sharp folder pane creation for data modelling
+
+Data cleaning, formatting of the colomns names, data types etc, removing unnessary colors
+
+how to generate gradient colors by using any images 
+
+netflix color - #E50914
+(red)
+
+
+
+
